@@ -228,4 +228,10 @@ h3{
     margin-left:1040px;
     color: #f51594;
 }
-
+body{
+    background-image: url(img/lagoon.png);
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    height: 100vh;
+}
